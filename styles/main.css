@@ -1,0 +1,52 @@
+html {
+  background-color: #3e3b4a;
+  margin:auto;
+}
+
+.row {
+  align: center;
+}
+
+.Home {
+  width: 1020px;
+  height: 510px;
+  background-color: red;
+}
+
+.str1 {
+  width: 1020px;
+  height: 480px;
+  background-color: blue;
+  display: flex;
+}
+
+.Accessories {
+  width: 620px;
+  height: 480px;
+  background-color: red;
+  margin-right: 20px;
+}
+
+.Subscribe {
+  width: 380px;
+  height: 480px;
+  background-color: red;
+}
+
+.Cameras {
+  width: 260px;
+  height: 420px;
+  background-color: red;
+}
+
+.Sound {
+  width: 260px;
+  height: 420px;
+  background-color: red;
+}
+
+.Cameras2 {
+  width: 460px;
+  height: 420px;
+  background-color: red;
+}
