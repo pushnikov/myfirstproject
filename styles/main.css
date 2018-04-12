@@ -14,9 +14,9 @@ html {
 }
 
 .str1 {
+  margin-top: 20px;
   width: 1020px;
   height: 480px;
-  background-color: blue;
   display: flex;
 }
 
@@ -33,16 +33,25 @@ html {
   background-color: red;
 }
 
+.str2 {
+  margin-top: 20px;
+  width: 1020px;
+  height: 420px;
+  display: flex;
+}
+
 .Cameras {
   width: 260px;
   height: 420px;
   background-color: red;
+  margin-right: 20px;
 }
 
 .Sound {
   width: 260px;
   height: 420px;
   background-color: red;
+  margin-right: 20px;
 }
 
 .Cameras2 {
